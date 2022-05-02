@@ -69,15 +69,15 @@ The results are very similar to the RandomOverSampler model.
 
 ### SMOTEENN Model
 ![cluster centroids model](./Resources/combo_over_under.png)
-- The balanced accuracy score is less at 64.7%  
+- The balanced accuracy score is less at 61.5%  
 - High Risk
   - 1% precision 
-  - Sensitivity of 72%, 
+  - Sensitivity of 68%, 
   - F1 score of 2%. 
 - Low Risk
   - 100% precision 
-  - Sensitivity of 57%, 
-  - F1 score of 72%. 
+  - Sensitivity of 55%, 
+  - F1 score of 71%. 
 
 ### BalancedRandomForestClassifier 
 ![cluster centroids model](./Resources/Balanced%20Random%20Classifier.png)
